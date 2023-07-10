@@ -1,4 +1,4 @@
-<h1>Merhaba, Hoşgeldiniz! 👋 </h1>
+<h1>Hoşgeldin! 👋 </h1>
 
 <p>Ahmet Emin Kurt..</p>
 <h3>Kodladıklarım</h3>
