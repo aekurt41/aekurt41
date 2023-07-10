@@ -1,6 +1,6 @@
 <h1>Merhaba, Hoşgeldiniz! 👋 </h1>
 
-<p>Ahmet Emin Kurt.. Yazılımcıyım!</p>
+<p>Ahmet Emin Kurt..</p>
 <h3>Kodladıklarım</h3>
 <hr>
   <p>
