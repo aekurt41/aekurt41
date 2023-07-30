@@ -1,7 +1,7 @@
 <h1>Hoşgeldin! 👋 </h1>
 
 <p>Ahmet Emin Kurt..</p>
-<h3>Kodladıklarım</h3>
+<h3>Yeteneklerim</h3>
 <hr>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
