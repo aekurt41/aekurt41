@@ -1,7 +1,7 @@
 <h1>Hoşgeldin! 👋 </h1>
 
 <p>Ahmet Emin Kurt..</p>
-<h3>Yeteneklerim</h3>
+<h3>Languages and Tools:</h3>
 <hr>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -16,10 +16,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   
  
-</p>
-<h3>Veri Tabanları</h3> 
-<hr>
-<p>
  <img alt="Javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
    <img alt="Javascript" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" /> 
